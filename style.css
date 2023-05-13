@@ -20,6 +20,7 @@ body{
     width: 35%;
     background-color: white;
     padding: 40px;
+    border-radius: 5px;
 }
 
 .container .login-box header h1{
